@@ -5,6 +5,9 @@ package map.baidu.com.baidumap.Utils;
  */
 
 public class Gps {
+
+    private double local;
+
     private double wgLat;
     private double wgLon;
 
